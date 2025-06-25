@@ -7,4 +7,4 @@ This project classifies Indonesian sign language (SIBI) hand gestures using DNN 
 2. Run the app: `python app.py`
 
 This model was created using approximately 12,800 hand image datasets, with more than 510 for each letter.
-
+![Demo Klasifikasi SIBI](assets/demo.gif)
