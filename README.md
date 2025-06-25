@@ -6,11 +6,13 @@ This project classifies Indonesian sign language (SIBI) hand gestures using DNN 
 This project aims to recognize Indonesian Sign Language (SIBI) hand gestures in real-time using a webcam and classify them into alphabet letters to support inclusive communication.
 
 ## Project Structure
-├── assets/             # Demo image/GIF files
-├── Drive.txt           # Notes
-    ├── requirements.txt    # Dependencies
-    ├── app.py              # Main program
-└── README.md           # Project documentation
+```
+├── assets/            # Demo image/GIF files
+├── Drive.txt          # Notes
+    ├── requirements.txt   # Dependencies
+    ├── app.py             # Main program
+└── README.md          # Project documentation
+```
 
 ## Features
 - Real-time hand gesture detection
