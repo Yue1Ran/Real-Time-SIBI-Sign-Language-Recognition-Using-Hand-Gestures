@@ -9,9 +9,8 @@ This project aims to recognize Indonesian Sign Language (SIBI) hand gestures in 
 ## Project Structure
 ```
 ├── assets/            # Demo image/GIF files
-├── Drive.txt          # Notes
-    ├── requirements.txt   # Dependencies
-    ├── app.py             # Main program
+├── requirements.txt   # Dependencies
+├── app.py             # Main program
 └── README.md          # Project documentation
 ```
 
