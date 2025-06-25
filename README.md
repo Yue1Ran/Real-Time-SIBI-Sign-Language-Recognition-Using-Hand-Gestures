@@ -27,3 +27,6 @@ This project aims to recognize Indonesian Sign Language (SIBI) hand gestures in 
 
 ## Demo Klasifikasi SIBI
 ![Demo Klasifikasi SIBI](assets/demo.gif)
+
+You can access the program via the following Google Drive link:  
+[🔗 Click here to open] (https://drive.google.com/drive/u/2/folders/1IsOhzXXGv49fx3P4-h2r2aLS53kHJRf5)
